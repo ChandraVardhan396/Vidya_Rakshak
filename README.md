@@ -9,7 +9,7 @@
 
 Designed to promote **safe, focused, and engaging learning**, Vidya Rakshak enables students to explore environmental concepts through real-time interaction, virtual field visits, and collaborative activities in a decentralized digital campus.
 
-<img src="#" alt="Vidya Rakshak Metaverse Screenshot" width="80%">
+<img src="screenshot.png" alt="Vidya Rakshak Metaverse Screenshot" width="80%">
 
 </div>
 
