@@ -1,7 +1,6 @@
 # Vidya Rakshak – Metaverse Education System
 <div align="center">
 <a href="#">
-   <img src="#" alt="Vidya Rakshak Logo">
 </a>
 
 ## Overview
